@@ -7,6 +7,7 @@ public class GithubHw1 {
 
 		System.out.println("Hello Git");
 		System.out.println("Hello Eclipse");
+		System.out.println("feature1");
 	}
 
 }
